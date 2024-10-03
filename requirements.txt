@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2    # Si usas PostgreSQL
+pydantic
+requests
+python-dotenv
